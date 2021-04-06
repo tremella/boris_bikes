@@ -29,8 +29,3 @@ class DockingStation
       return @bikes.length == 0
     end
 end
-
- # Define a full? predicate method
- # that uses some of the dock code
- # to return true or false depending
- # on whether the station is full or not
